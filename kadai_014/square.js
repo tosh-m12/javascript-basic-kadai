@@ -1,7 +1,10 @@
 
 
 const powerOfTwo = (n) => {
-    console.log(n ** 2);
+    return n ** 2;
+    // console.log(n ** 2);
 }
 
-powerOfTwo(10)
+// powerOfTwo(10)
+
+console.log(powerOfTwo(10));
